@@ -1,0 +1,28 @@
+#map {
+    height: 700;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+h1, h2 {
+    font-family: 'Mochiy Pop P One', sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    padding: 0 3rem;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #556a4b;
+    color: #ae4a19;
+}
