@@ -4,12 +4,12 @@
 * [Setup](#setup)
 
 ## General Info
-Google maps with Studio Ghibli theme applied.
+Google maps centered around the Studio Ghibli Museum with Studio Ghibli theme applied.
 
 ## Technologies 
 + Google Maps JavaScript API
-+ HTML5
 + JavaScript
++ HTML5
 + CSS
 
 ## Setup
